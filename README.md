@@ -10,7 +10,9 @@ environment OS : https://www.linuxmint.com/ or https://www.ubuntu.com/download/d
 
 
 *** planning ***
-KCG
-System Programing review + Operating System review + Java Script study
 
 
+KCG -> System Programing review + Operating System review + Java Script study
+
+
+add another study members..
