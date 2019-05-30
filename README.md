@@ -9,6 +9,8 @@ environment OS : https://www.linuxmint.com/ or https://www.ubuntu.com/download/d
                 may need to install gcc
 
 
+![vi-vim-cheat-sheet-ko](https://user-images.githubusercontent.com/46393079/58620111-40fc6700-8301-11e9-98f4-e617e6752d7d.png)
+
 *** planning ***
 
 
