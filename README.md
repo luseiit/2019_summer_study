@@ -18,3 +18,6 @@ KCG -> System Programing review + Operating System review + Java Script study
 
 
 add another study members..
+
+
+1st week ----- make schedule, Orientation 
